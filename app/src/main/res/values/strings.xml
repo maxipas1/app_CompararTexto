@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Comparar Texto</string>
+    <string name="textView">Ingresa un texto</string>
+    <string name="textView2">Ingresa otro texto</string>
+    <string name="text1">Ingrese el texto</string>
+    <string name="text2">Ingrese el segundo texto</string>
+    <string name="buttonCompare">Compare</string>
+    <string name="textRes"> Los textos son Iguales</string>
+</resources>
